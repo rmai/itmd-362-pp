@@ -15,18 +15,18 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.https://stayintech.com/UX
+2.http://www.expertusability.com/website-usability-checklist-and-usability-guide/
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Content is readable without style sheet
+2. easy to load
+3. links, buttons, and checkboxes are clickable
+4. no broken links
+5. browser compatible
+6. pages isn't clutter
+7. simplicity
+8. easy to tell the purpose of the site
+9. error pages are present
+10. easy to read
